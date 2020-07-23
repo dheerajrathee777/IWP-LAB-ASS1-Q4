@@ -1,0 +1,19 @@
+{
+  "name": "question-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheerajrathee777/IWP-LAB-ASS1-Q4.git"
+  },
+  "author": "Dheeraj Rathee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheerajrathee777/IWP-LAB-ASS1-Q4/issues"
+  },
+  "homepage": "https://github.com/dheerajrathee777/IWP-LAB-ASS1-Q4#readme"
+}
